@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @medvol
+- 👋 Hi, I’m Oleh Medvid', a developer from Ukraine!
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 Now I am 'mining' experience on JavaScript, HTML5 and CSS3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Find me on Github
 
 <!---
 medvol/medvol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
