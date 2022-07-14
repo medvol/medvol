@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oleh Medvid', a developer from Ukraine!
-- 👀 I’m interested in ...
-- 🌱 Now I am 'mining' experience on JavaScript, HTML5 and CSS3
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development;
+- 🌱 Now I am 'mining' experience on JavaScript, HTML5 and CSS 3;
+- 💞️ I’m looking to collaborate on pet project;
 - 📫 Find me on Github
 
 <!---
