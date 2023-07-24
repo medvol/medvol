@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oleh Medvid', a developer from Ukraine!
-- 👀 I’m interested in web development;
-- 🌱 Now I am 'mining' experience on JavaScript, React, HTML5 and CSS3;
-- 💞️ I’m looking to collaborate on pet project;
+- 👋  Greetings! I am Oleh Medvid', an ambitious developer hailing from the enchanting land of Ukraine!
+- 🌐 My passion lies in the captivating world of web development.
+- 🚀 Currently, I am delving deep into the realms of JavaScript, React, Next.js, and TypeScript, mining precious experience along the way.
+- 🤝 Seeking to join forces on an exciting pet project, where innovation and creativity collide! Let's build something extraordinary together!
 - 📫 Find me on Github
 
 <h3 align="left">Languages and Tools:</h3>
